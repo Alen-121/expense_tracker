@@ -1,51 +1,24 @@
-2025-04-01 - $10.50 - Lunch
-2025-04-02 - $45.00 - Groceries
-2025-04-03 - $15.75 - Gas
-2025-04-04 - $30.00 - Movie Tickets
-2025-04-05 - $12.00 - Coffee
-2025-04-06 - $80.00 - Clothing
-2025-04-07 - $5.50 - Snacks
-2025-04-08 - $22.30 - Books
-2025-04-09 - $60.00 - Shoes
-2025-04-10 - $18.75 - Dinner
-2025-04-11 - $5.00 - Parking
-2025-04-12 - $150.00 - Electronics
-2025-04-13 - $25.40 - Grocery Shopping
-2025-04-14 - $9.00 - Ice Cream
-2025-04-15 - $200.00 - Rent
-2025-04-16 - $12.75 - Bus Fare
-2025-04-17 - $33.50 - Concert Ticket
-2025-04-18 - $50.00 - Utility Bill
-2025-04-19 - $10.00 - Stationery
-2025-04-20 - $120.00 - Medical Expenses
-2025-04-21 - $8.90 - Fast Food
-2025-04-22 - $55.00 - Gym Membership
-2025-04-23 - $90.00 - Subscription Services
-2025-04-24 - $5.25 - Water Bottle
-2025-04-25 - $15.00 - Taxi Fare
-2025-04-26 - $20.80 - Gift
-2025-04-27 - $30.00 - Home Decor
-2025-04-28 - $7.50 - Breakfast
-2025-04-29 - $85.00 - Office Supplies
-2025-04-30 - $18.00 - Movie Night
-2025-05-01 - $6.40 - Tea
-2025-05-02 - $40.00 - Car Wash
-2025-05-03 - $17.60 - Bakery
-2025-05-04 - $25.00 - Public Transport
-2025-05-05 - $70.00 - Concert Tickets
-2025-05-06 - $8.20 - Juice
-2025-05-07 - $90.00 - Online Course
-2025-05-08 - $14.00 - Museum Entry
-2025-05-09 - $10.00 - Notebook
-2025-05-10 - $30.00 - Beauty Products
-2025-05-11 - $11.75 - Street Food
-2025-05-12 - $20.00 - Pet Supplies
-2025-05-13 - $65.00 - Kitchenware
-2025-05-14 - $5.80 - Popcorn
-2025-05-15 - $27.50 - Taxi Ride
-2025-05-16 - $32.00 - Haircut
-2025-05-17 - $90.00 - Event Tickets
-2025-05-18 - $15.90 - Dinner Out
-2025-05-19 - $12.50 - Laundry
-2025-05-20 - $100.00 - Insurance Payment
-
+01/03/25 - 633 electricity 
+03/03/25 - 1300 gym
+03/03/25 - 10 - black tea
+03/03/25 - 4000 - jensly
+03/03/25 - 3000 - anandhu ajesh 
+07/03/25 - 10, 10,
+08/03/25 -  299 - laptop stand 
+08/03/25 - 20 - omlette 
+08/03/25 - 68 - necessary items
+08/03/25 - 189 - mobile recharge 
+09/03/25 - 60 - auto fare
+09/03/25 - 50 - Aidrin
+09/03/25 - 90 - shawarma
+12/03/25 - 20 - chappathy
+12/03/25 - 117 - lays + yoghurt 
+13/03/25 - 2499 - keyboard 
+14/03/25 - 58 - snacks
+15/03/25 - 45 - noodles 
+16/03/25 - 2869 - rent
+16/03/25 - 3500 - food 
+16/03/25 - 470 - net
+21/03/25 - 120
+23/03/25 - 200 - haircut 
+26/03/25 - 40 - snacks
